@@ -1,0 +1,24 @@
+Email #1
+From: alice@example.com
+To: bob@example.com
+Subject: Project Meeting Tomorrow
+Phishing alerts: None
+
+Email #2
+From: support@paypa1-secure.com
+To: victim@example.com
+Subject: URGENT: Verify Your Account Now
+Phishing alerts: urgent, verify, suspicious sender domain
+
+Email #3
+From: billing@invoices-ltd.net
+To: user@company.com
+Subject: Invoice Payment Required
+Phishing alerts: invoice, suspicious sender domain
+
+Email #4
+From: hr@totallylegit-jobs.com
+To: employee@company.com
+Subject: You are a winner! Free Prize Inside
+Phishing alerts: free, winner
+
